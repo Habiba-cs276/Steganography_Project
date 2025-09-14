@@ -33,4 +33,4 @@ pip install Pillow stegano
 python your_project_file_name.py
 
 # Screenshots
-
+![Steganography Demo](Screenshots/1.png)
